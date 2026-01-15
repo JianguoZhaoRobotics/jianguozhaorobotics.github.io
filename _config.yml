@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "contrast" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Jianguo Zhao"
 title_separator          : "-"
 name                     : &name "Jianguo Zhao"
-description              : &description "Jianguo Zhao's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Jianguo Zhao's homepage"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://jianguozhaorobotics.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,12 +24,12 @@ repository               : "JianguoZhaoRobotics/jianguozhaorobotics.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Associate Professor" # Update with your name
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Director: Adaptive Robotics Lab"
   location         : "Fort Collins, CO"
   employer         : "Colorado State University"
-  uri              : # URL
+  uri              : "https://www.engr.colostate.edu/me/faculty/dr-jianguo-zhao/"
   email            : "zhao@colostate.edu" 
 
   # Academic websites
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "jianguo-zhao"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -74,22 +74,18 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "@zhao_robotics"  # Username - Update with your Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : "@adaptiveroboticslab5084"
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  selected:
+    title: 'Representative Publications'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
@@ -192,9 +188,11 @@ exclude:
   - README
   - tmp
   - vendor
+  - labs
 keep_files:
   - .git
   - .svn
+  - labs
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
