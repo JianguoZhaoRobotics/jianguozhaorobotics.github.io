@@ -9,10 +9,27 @@ redirect_from:
 
 **I design and control adaptive robotic systems that change their morphology and behavior to operate in complex, unstructured environments.**
 
-Dr. Jianguo Zhao received his Ph.D. in Electrical and Computer Engineering from Michigan State University in 2015; his M.E. in Mechanical Engineering from Harbin Institute of Technology, P. R. China in 2007 and B.E. in 2005. He is currently an Associate Professor in the Department of Mechanical Engineering at Colorado State University and the director of the **Adaptive Robotics Lab**. His research focuses on adaptive and shape-morphing robotic systems that integrate mechanical design, control, and learning to achieve robust performance in real-world environments. His work spans adaptive and shape-morphing robots, multimodal locomotion and manipulation, and embodied intelligence.
+Dr. Jianguo Zhao is currently an Associate Professor in the Department of Mechanical Engineering at Colorado State University and the director of the **Adaptive Robotics Lab**. His research focuses on adaptive and shape-morphing robotic systems that integrate mechanical design, control, and learning to achieve robust performance in real-world environments. His work spans adaptive and shape-morphing robots, multimodal locomotion and manipulation, and embodied intelligence.
 
 
-Dr. Zhao’s research has resulted in over **100 peer-reviewed publications** in leading robotics and multidisciplinary venues, including *IEEE Transactions on Robotics*, *Soft Robotics*, *Nature Communications*, and *Science Advances*. He actively contributes to the robotics community through editorial service and currently serves as an **Associate Editor** for *IEEE Transactions on Robotics* and a **Technical Editor** for *IEEE/ASME Transactions on Mechatronics*.
+**Highlights**
+- Director, Adaptive Robotics Lab; PI/Co-PI on federally funded projects in adaptive and shape-morphing robotics
+- 100+ peer-reviewed publications across robotics and multidisciplinary venues (T-RO, Soft Robotics, Nature Communications, Science Advances)
+- Editorial roles: Associate Editor, IEEE Transactions on Robotics; Technical Editor, IEEE/ASME Transactions on Mechatronics
+- Research themes: shape morphing, multimodal locomotion/manipulation, design–control–learning co-optimization, embodied intelligence
+- Always recruiting motivated students interested in adaptive robotics and robot learning
+
+**Education**
+- Ph.D., Electrical and Computer Engineering, Michigan State University, 2015
+- M.E., Mechanical Engineering, Harbin Institute of Technology (P.R. China), 2007
+- B.E., Mechanical Engineering, Harbin Institute of Technology (P.R. China), 2005
+
+**Employment**
+- Colorado State University, Associate Professor in Mechanical Engineering — Fort Collins, CO (07/2021–Now)
+- Colorado State University, Assistant Professor in Mechanical Engineering — Fort Collins, CO (08/2015–07/2021)
+- Michigan State University, Research and Teaching Assistant — East Lansing, MI (08/2008–05/2015)
+- Johnson Electric, Electrical Engineer — Shenzhen, China (02/2008–07/2008)
+
 
 **Research interests**
 - Adaptive and shape-morphing robots  
@@ -20,4 +37,5 @@ Dr. Zhao’s research has resulted in over **100 peer-reviewed publications** in
 - Design–control–learning co-optimization  
 - Embodied intelligence and physical AI  
 
-<span style="color: red;">*I am always looking for motivated student to join my lab. Prospective Ph.D. students interested in adaptive robotics and robot learning are encouraged to reach out.*</span>
+<span style="color: red;">*I am always looking for motivated student to join my lab. Prospective Ph.D. students interested in adaptive robotics and robot learning are encouraged to reach out and [apply](https://www.engr.colostate.edu/me/grad-apply/).*</span>
+
