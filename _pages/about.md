@@ -7,17 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-**I design and control adaptive robotic systems that change their morphology and behavior to operate in complex, unstructured environments.**
+# Welcome to my Homepage
 
-Dr. Jianguo Zhao is currently an Associate Professor in the Department of Mechanical Engineering at Colorado State University and the director of the **Adaptive Robotics Lab**. His research focuses on adaptive and shape-morphing robotic systems that integrate mechanical design, control, and learning to achieve robust performance in real-world environments. His work spans adaptive and shape-morphing robots, multimodal locomotion and manipulation, and embodied intelligence.
 
+I am currently an Associate Professor in the Department of Mechanical Engineering at Colorado State University and the director of the **[Adaptive Robotics Lab](https://www.engr.colostate.edu/laboratories/adaptive-robotics-laboratory/)**. My research focuses on adaptive and shape-morphing robotic systems that integrate mechanical design, control, and learning to achieve robust performance in real-world environments. My work spans adaptive and shape-morphing robots, multimodal locomotion and manipulation, and embodied intelligence.
+
+<span style="color: red;">*I am always looking for motivated student to join my lab. Prospective Ph.D. students interested in adaptive robotics and robot learning are encouraged to reach out and [apply](https://www.engr.colostate.edu/me/grad-apply/).*</span>
 
 **Highlights**
 - Director, Adaptive Robotics Lab; PI/Co-PI on federally funded projects in adaptive and shape-morphing robotics
 - 100+ peer-reviewed publications across robotics and multidisciplinary venues (T-RO, Soft Robotics, Nature Communications, Science Advances)
 - Editorial roles: Associate Editor, IEEE Transactions on Robotics; Technical Editor, IEEE/ASME Transactions on Mechatronics
 - Research themes: shape morphing, multimodal locomotion/manipulation, design–control–learning co-optimization, embodied intelligence
-- Always recruiting motivated students interested in adaptive robotics and robot learning
+
 
 **Education**
 - Ph.D., Electrical and Computer Engineering, Michigan State University, 2015
@@ -37,5 +39,5 @@ Dr. Jianguo Zhao is currently an Associate Professor in the Department of Mechan
 - Design–control–learning co-optimization  
 - Embodied intelligence and physical AI  
 
-<span style="color: red;">*I am always looking for motivated student to join my lab. Prospective Ph.D. students interested in adaptive robotics and robot learning are encouraged to reach out and [apply](https://www.engr.colostate.edu/me/grad-apply/).*</span>
+
 
