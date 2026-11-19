@@ -16,4 +16,4 @@ location: "Fort Collins, CO"
 
 An introduction to robotic manipulators that combines theory with hands-on practice. Topics include robot actuators, rigid-body transformations, forward and inverse kinematics, velocity kinematics and the Jacobian, and trajectory generation.
 
-Each topic is implemented in Python, tested in MuJoCo simulation, and then run on real hardware: students build and program a planar 2R arm from smart servo motors and control the open-source SO-101 robot arm. The course uses the online book *Simulate, Build, Move: A Hands-On Introduction to Robotics*.
+Each topic is implemented in Python, tested in MuJoCo simulation, and then run on real hardware: students build and program a planar 2R arm from smart servo motors and control the open-source SO-101 robot arm. The course uses the online book *Model, Simulate, Move: A Hands-On Introduction to Robotics*.
