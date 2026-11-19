@@ -1,0 +1,40 @@
+---
+# Local override of al_folio_core's assets/css/main.scss (v1.0.15).
+# Identical to the gem's file except for the "Site accent color" block at the end.
+---
+@charset "utf-8";
+
+@use "sass:math";
+@use "sass:string";
+
+@use "variables" with (
+  $max-content-width: {{ site.max_width | default:  "930px" }}
+);
+
+@use "themes";
+@use "layout";
+
+@use "typography";
+@use "navbar";
+@use "footer";
+@use "blog";
+@use "publications";
+@use "components";
+@use "utilities";
+
+@use "tabs";
+@use "teachings";
+@use "typograms";
+
+/* Site accent color: Colorado State University green */
+:root {
+  --global-theme-color: #1e4d2b;
+  --global-hover-color: #1e4d2b;
+  --global-code-bg-color: rgba(30, 77, 43, 0.05);
+}
+
+html[data-theme="dark"] {
+  --global-theme-color: #8cc49b;
+  --global-hover-color: #8cc49b;
+  --global-hover-text-color: #1c1c1d;
+}
