@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: research
+title: Research
 description: Adaptive and shape-morphing robots that integrate mechanical design, control, and learning.
 nav: true
 nav_order: 3

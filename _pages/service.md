@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /service/
-title: service
+title: Service
 description: Editorial, conference, review, university, and outreach service.
 nav: true
 nav_order: 5

@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Associate Professor of Mechanical Engineering · Director, <a href='https://adaptiverobotics.org'>Adaptive Robotics Lab</a> · Colorado State University
 

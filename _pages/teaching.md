@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Courses at Colorado State University and open course materials.
 nav: true
 nav_order: 4
