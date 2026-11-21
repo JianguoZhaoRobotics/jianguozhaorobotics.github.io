@@ -7,16 +7,18 @@ nav: true
 nav_order: 3
 ---
 
-For more on ongoing and past work, visit the [Adaptive Robotics Laboratory website](https://www.engr.colostate.edu/laboratories/adaptive-robotics-laboratory/).
+My group builds robots whose bodies do part of the work: structures that change their shape, stiffness, and mode of movement. The work spans four connected areas; each card below opens the area's page on the [Adaptive Robotics Lab website](https://adaptiverobotics.org/), with the related robots, videos, and papers. Across all four, we are increasingly interested in co-optimizing design, control, and learning, and in embodied intelligence for physical AI.
 
-## Research interests
+{% assign sorted_projects = site.projects | sort: "importance" %}
+<div class="projects">
+  <div class="row row-cols-1 row-cols-md-2">
+    {% for project in sorted_projects %}
+      {% include projects.liquid %}
+    {% endfor %}
+  </div>
+</div>
 
-- **Adaptive and shape-morphing robots**
-- **Multimodal locomotion and manipulation**
-- **Design–control–learning co-optimization**
-- **Embodied intelligence and physical AI**
-
-## Selected projects
+## Funded projects
 
 | Project                                                                                                                                                                   | Years     | Sponsor |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ------- |

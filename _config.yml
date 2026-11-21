@@ -6,8 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Jianguo
 middle_name:
 last_name: Zhao
-contact_note: >
-  Prospective Ph.D. students interested in adaptive robotics and robot learning are encouraged to reach out by email.
+contact_note: "" # text under the social icons; the prospective-students note is in _pages/about.md
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Jianguo Zhao, Associate Professor of Mechanical Engineering at Colorado State University and director of the Adaptive Robotics Lab.
 footer_text: >
@@ -193,6 +192,8 @@ collections:
     output: true
   teachings:
     output: true
+  projects: # research-area cards on the research page; each links to the lab website
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -404,7 +405,7 @@ filtered_bibtex_keywords:
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
-max_author_limit: 3 # leave blank to always show all authors
+max_author_limit: # leave blank to always show all authors
 more_authors_animation_delay: 10 # more authors are revealed on click using animation; smaller delay means faster animation
 
 # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
